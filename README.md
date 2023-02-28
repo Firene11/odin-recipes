@@ -1,16 +1,16 @@
 # odin-recipes
 
-##Description
+## Description
 This Odin Recipes Web Page was created for myself to practise using HTML.
 
-##Installation
+## Installation
 N/A
 
-##Usage
+## Usage
 TBD
 
-##Credits
+## Credits
 N/A
 
-##License
+## License
 MIT
