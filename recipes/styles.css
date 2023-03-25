@@ -1,0 +1,24 @@
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    color:black;
+    text-shadow: 4px 4px 3px rgb(207, 205, 205);
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    border-radius: 28px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
