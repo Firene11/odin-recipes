@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+  }
+
+h1 {
+    color:rgb(238, 217, 28);
+    text-shadow: 4px 4px 3px rgb(207, 205, 205);
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.bananaman {
+    border-radius: 28px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+h3 {
+    color: yellow;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.recipes {
+    background-color: white;
+    text-align: center;
+    margin-left: 120px;
+    margin-right: 120px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.smile {
+    color:yellow;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+}
