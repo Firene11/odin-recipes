@@ -1,5 +1,10 @@
 body {
     background-color: black;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+  a {
+    color: black;
   }
 
 h1 {
@@ -20,21 +25,34 @@ h1 {
 h3 {
     color: yellow;
     text-align: center;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.recipes {
-    background-color: white;
+.buttons {
     text-align: center;
-    margin-left: 120px;
-    margin-right: 120px;
-    padding-top: 40px;
-    padding-bottom: 40px;
 }
 
-.smile {
-    color:yellow;
-    font-size: 22px;
+.button {
+    background-color: lightgoldenrodyellow;
+    border: none;
+    font-size: 18px;
+    text-align: center;
     font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}
+
+.button :hover {
+    background-color: yellow;
+    transition: 0.5s;
+  }
+
+.closing-text {
+    color:white;
+    font-size: 10px;
     text-align: center;
+}
+
+.closing-text a:link {
+    color:#1848e6;
 }
