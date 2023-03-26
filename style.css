@@ -4,7 +4,7 @@ body {
   }
 
   a {
-    color: black;
+    color: rgb(83, 82, 82);
   }
 
 h1 {
@@ -56,5 +56,5 @@ h3 {
 }
 
 .closing-text a:link {
-    color:#1848e6;
+    color:#214fe4;
 }
