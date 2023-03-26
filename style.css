@@ -34,17 +34,16 @@ h3 {
 .button {
     background-color: lightgoldenrodyellow;
     border: none;
-    font-size: 18px;
+    font-size: 16px;
     text-align: center;
     font-weight: bold;
     padding-top: 5px;
     padding-bottom: 5px;
-    
+    margin: 5px;
 }
 
 .button :hover {
     background-color: yellow;
-    transition: 0.5s;
     padding-top: 5px;
     padding-bottom: 5px;
   }
@@ -53,6 +52,7 @@ h3 {
     color:white;
     font-size: 10px;
     text-align: center;
+    margin-top: 15px;
 }
 
 .closing-text a:link {
